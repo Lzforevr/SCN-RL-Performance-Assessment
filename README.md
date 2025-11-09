@@ -1,4 +1,4 @@
-# SNC-RL-Performance-Assessment
+# SCN-RL-Performance-Assessment
 
 *Tips:This repository is currently only in demo version.*
 
